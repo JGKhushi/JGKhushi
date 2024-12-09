@@ -3,14 +3,14 @@
 
 </p>
 <h1 align="center">Hi 👋, I'm Khushi Nema</h1>
-<h3 align="center">The fantastic combination of tech with soft and people skills. Driven by Code, Powered by Communication.</h3>
+<h3 align="center">The fantastic combination of tech with soft and people skills.</h3>
 <h3 align="center">Driven by Code, Powered by Communication.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgkhushi&label=Profile%20views&color=0e75b6&style=flat" alt="jgkhushi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jgkhushi" alt="jgkhushi" /></a> </p>
 
-- 😇 Love to meet new mindsets and engage in meaningful conversations with interesting people.✨ [😉Connect for sharing new ideas, skills and knowledge!:))](😉Connect for sharing new ideas, skills and knowledge!:)))
+- 😇 Love to meet new mindsets and engage in meaningful conversations with interesting people.😉Connect for sharing new ideas, skills and knowledge!:)))
 
 - 💬 Ask me about **MERN technologies , JAVA .**
 
